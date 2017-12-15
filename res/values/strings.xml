@@ -38,10 +38,10 @@
     <string name="loading">Just a sec\u2026</string>
 
     <string name="setup_complete">Setup is complete</string>
-    <string name="setup_welcome">Welcome</string>
+    <string name="setup_welcome">Welcome cunt</string>
     <string name="setup_locale">Language</string>
     <string name="setup_wifi">Select Wi-Fi</string>
-    <string name="setup_sim_missing">SIM card missing</string>
+    <string name="setup_sim_missing">WHY THERE IS NOT SIM CARD?!</string>
     <string name="setup_choose_data_sim">Choose a SIM for data</string>
     <string name="setup_location">Location services</string>
     <string name="setup_other">Other services</string>
@@ -49,8 +49,8 @@
     <string name="setup_current_date">Current date</string>
     <string name="setup_current_time">Current time</string>
 
-    <string name="sim_missing_summary" product="tablet">A SIM card has not been detected in your tablet. To insert a SIM card, read the instructions that came with your device.</string>
-    <string name="sim_missing_summary" product="default">A SIM card has not been detected in your phone. To insert a SIM card, read the instructions that came with your device.</string>
+    <string name="sim_missing_summary" product="tablet">Read the fucking instructions or google 'how to insert SIM card' cunt.</string>
+    <string name="sim_missing_summary" product="default">Read the fucking instructions or google 'how to insert SIM card' cunt.</string>
     <string name="choose_data_sim_summary" product="tablet">Which SIM do you want to use for data? The selected SIM may incur network charges as it will be used to set up your tablet.</string>
     <string name="choose_data_sim_summary" product="default">Which SIM do you want to use for data? The selected SIM may incur network charges as it will be used to set up your phone.</string>
 
